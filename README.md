@@ -74,8 +74,8 @@ QuickText/
 - Phone: 800-523-7187
 
 ### Footer (Sky-Blue Background)
-- Email: info@gmrwebteam.com
-- Website: www.gmrwebteam.com
+- Email: **************
+- Website: ***************
 
 ## Setup Instructions
 
